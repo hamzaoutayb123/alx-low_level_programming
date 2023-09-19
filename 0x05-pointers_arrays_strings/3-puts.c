@@ -3,7 +3,7 @@
 /**
  * _puts - function that prints a string.
  *
- * _str: a pointer type char
+ * @str: a pointer type char
 */
 
 void _puts(char *str)
